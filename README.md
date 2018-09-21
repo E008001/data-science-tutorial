@@ -1,7 +1,7 @@
-# data-science-tutorial
+# Data Science Tutorial
 Introducing data science essential training courses which published by Lynda.
 
-* Data Science Foundations: Fundamentals (with Barton Poulson). Click Here
+* Data Science Foundations: Fundamentals (with Barton Poulson). [Click Here](https://www.lynda.com/Big-Data-tutorials/Introduction-Data-Science/420305-2.html?srchtrk=index%3a7%0alinktypeid%3a2%0aq%3adata+science+%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
 * Data Science Foundations: Data Engineering (with Ben Sullins). Click Here
 
