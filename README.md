@@ -31,4 +31,4 @@
 
 * Deploying Scalable Machine Learning for Data Science (with Dan Sullivan). [Click Here](https://www.lynda.com/course-tutorials/Deploying-Scalable-Machine-Learning-Data-Science/711823-2.html)
 
-* sahhay. [Click Here](https://www.sahhay.com)
+* Deploying Scalable Machine Learning for Data Science (with Dan Sullivan). [Click Here](https://www.sahhay.com)
