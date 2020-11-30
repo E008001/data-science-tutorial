@@ -22,6 +22,7 @@
 * Amazon Web Services for Data Science (with Lynn Langit). [Click Here](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Data-Science/471661-2.html)
 
 * Data Science Tools of the Trade: First Steps (with Jungwoo Ryoo). [Click Here](https://www.lynda.com/Data-Science-tutorials/Data-Science-Tools-Trade-First-Steps/664826-2.html)
+[link](http://www.sahhay.com/)
 
 * Advanced NoSQL for Data Science (with Dan Sullivan). [Click Here](https://www.lynda.com/NoSQL-tutorials/NoSQL-Data-Science-Depth/532187-2.html)
 
