@@ -30,4 +30,4 @@
 * R Programming in Data Science: Setup and Start (with Mark Niemann-Ross). [Click Here](https://www.lynda.com/R-tutorials/R-Programming-Data-Science-Setup-Start/614304-2.html)
 [link](http://www.sahhay.com/)
 * Deploying Scalable Machine Learning for Data Science (with Dan Sullivan). [Click Here](https://www.lynda.com/course-tutorials/Deploying-Scalable-Machine-Learning-Data-Science/711823-2.html)  
-[link](http://www.sahhay.com/)
+[link](http://www.sahhay.com/) [link](http://www.sahhay.com/%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%D8%B4%D8%A8%DA%A9%D9%87-%D9%88-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/)
